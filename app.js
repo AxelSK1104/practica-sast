@@ -5,3 +5,4 @@ function ejecutarEntradaUsuario(userInput) {
 
 const entradaPeligrosa = "console.log('Codigo ejecutado')";
 ejecutarEntradaUsuario(entradaPeligrosa);
+//prueba escaner
